@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">避難先さがし</title>
+  <desc id="desc">二方向の避難標識と街路図から、災害種別に合う避難先を探す</desc>
+  <rect width="1200" height="630" fill="#f4f0e4"/>
+  <g stroke="#263f56" stroke-opacity=".07" stroke-width="2">
+    <path d="M0 42H1200M0 84H1200M0 126H1200M0 168H1200M0 210H1200M0 252H1200M0 294H1200M0 336H1200M0 378H1200M0 420H1200M0 462H1200M0 504H1200M0 546H1200M0 588H1200"/>
+    <path d="M42 0V630M84 0V630M126 0V630M168 0V630M210 0V630M252 0V630M294 0V630M336 0V630M378 0V630M420 0V630M462 0V630M504 0V630M546 0V630M588 0V630M630 0V630M672 0V630M714 0V630M756 0V630M798 0V630M840 0V630M882 0V630M924 0V630M966 0V630M1008 0V630M1050 0V630M1092 0V630M1134 0V630M1176 0V630"/>
+  </g>
+  <rect x="42" y="38" width="1116" height="554" rx="22" fill="#263f56" stroke="#132b40" stroke-width="5"/>
+  <rect x="65" y="61" width="1070" height="508" rx="14" fill="none" stroke="#fffdf7" stroke-opacity=".2" stroke-width="2"/>
+  <g transform="translate(102 103)" font-family="sans-serif">
+    <text x="0" y="22" fill="#f1c54b" font-size="16" font-weight="700" letter-spacing="5">2 TYPES · 8 HAZARDS</text>
+    <text x="0" y="79" fill="#fffdf7" font-size="43" font-weight="800" letter-spacing="5">避難先さがし</text>
+    <text x="1" y="121" fill="#dce9ed" font-size="20" letter-spacing="2">危険の種類から、避難先を確かめる。</text>
+  </g>
+  <g transform="translate(88 265)">
+    <rect width="568" height="265" rx="12" fill="#dce9ed" stroke="#132b40" stroke-width="7"/>
+    <g fill="#fffdf7" stroke="#3c718c" stroke-opacity=".35" stroke-width="2">
+      <path d="M-30 49h640v34H-30z" transform="rotate(14 280 66)"/>
+      <path d="M197-40h35v360h-35z" transform="rotate(23 214 132)"/>
+      <path d="M-25 205h600v30H-25z" transform="rotate(-11 275 220)"/>
+    </g>
+    <g fill="#e46e3d" stroke="#132b40" stroke-width="4">
+      <path d="M453 38c-13 0-23 10-23 23 0 18 23 38 23 38s23-20 23-38c0-13-10-23-23-23z"/><circle cx="453" cy="61" r="7" fill="#fffdf7"/>
+      <path d="M151 177c-13 0-23 10-23 23 0 18 23 38 23 38s23-20 23-38c0-13-10-23-23-23z"/><circle cx="151" cy="200" r="7" fill="#fffdf7"/>
+    </g>
+    <g fill="#4e8971" stroke="#132b40" stroke-width="4">
+      <path d="M303 91c-13 0-23 10-23 23 0 18 23 38 23 38s23-20 23-38c0-13-10-23-23-23z"/><circle cx="303" cy="114" r="7" fill="#fffdf7"/>
+    </g>
+    <rect x="359" y="190" width="83" height="32" rx="4" fill="#3c718c"/>
+    <text x="400" y="211" text-anchor="middle" fill="#fffdf7" font-family="sans-serif" font-size="13" font-weight="700">現在地</text>
+    <path d="M382 222l18 17 18-17" fill="#3c718c"/>
+  </g>
+  <g transform="translate(711 151) rotate(2)" font-family="sans-serif">
+    <rect x="156" y="0" width="18" height="388" fill="#fffdf7" stroke="#132b40" stroke-width="6"/>
+    <g transform="translate(0 44)">
+      <path d="M0 0h310l38 48-38 48H0z" fill="#e46e3d" stroke="#132b40" stroke-width="7" stroke-linejoin="round"/>
+      <circle cx="50" cy="48" r="24" fill="#fffdf7"/>
+      <path d="M50 32v20m0 11h.01" stroke="#c94f43" stroke-width="7" stroke-linecap="round"/>
+      <text x="91" y="42" fill="#fffdf7" font-size="20" font-weight="800">危険から離れる</text>
+      <text x="91" y="68" fill="#fffdf7" font-size="13">指定緊急避難場所</text>
+    </g>
+    <g transform="translate(-20 173)">
+      <path d="M38 0h310v96H38L0 48z" fill="#4e8971" stroke="#132b40" stroke-width="7" stroke-linejoin="round"/>
+      <path d="M80 66V39h32v27m-39-29 23-19 23 19" fill="none" stroke="#fffdf7" stroke-width="6" stroke-linejoin="round"/>
+      <text x="133" y="42" fill="#fffdf7" font-size="20" font-weight="800">一定期間過ごす</text>
+      <text x="133" y="68" fill="#fffdf7" font-size="13">指定避難所</text>
+    </g>
+    <rect x="91" y="344" width="148" height="43" rx="4" fill="#132b40" stroke="#f1c54b" stroke-width="3"/>
+    <text x="165" y="372" text-anchor="middle" fill="#f1c54b" font-family="monospace" font-size="17" font-weight="700">198,595</text>
+  </g>
+  <text x="1068" y="555" text-anchor="end" fill="#dce9ed" font-family="sans-serif" font-size="15" letter-spacing="2">国土地理院 全国データ</text>
+</svg>

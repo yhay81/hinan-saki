@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hinan-saki.yhay81.com/sitemap.xml

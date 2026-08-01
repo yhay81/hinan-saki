@@ -1,0 +1,10 @@
+{
+  "name": "避難先さがし",
+  "short_name": "避難先さがし",
+  "description": "指定緊急避難場所と指定避難所を分け、地域と災害種別から探す",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e4",
+  "theme_color": "#263f56",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
